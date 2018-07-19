@@ -1,8 +1,8 @@
 ---
+title: "Migrate from Jekyll"
 date: 2014-03-10
-linktitle: Migrating from Jekyll
-title: Migrate to Hugo from Jekyll
-highlight: "true"
+tags: ["go", "golang", "hugo", "jekyll", "static-site-generator"]
+draft: false
 ---
 
 ## Move static content to `static`
@@ -55,7 +55,6 @@ As an example, I was using a custom [`image_tag`](https://github.com/alexandre-n
 
 Jekyll's plugin:
 
-```ruby
     module Jekyll
       class ImageTag < Liquid::Tag
         @url = nil
@@ -109,7 +108,6 @@ Jekyll's plugin:
       end
     end
     Liquid::Template.register_tag('image', Jekyll::ImageTag)
-```
 
 is written as this Hugo shortcode:
 

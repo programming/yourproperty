@@ -5,8 +5,8 @@ theme = "minimal"
 googleAnalytics = ""
 
 [params]
-    author = "Zack Lim"
-    description = "Buy, sell and rent property"
+    author = "Calin Tataru"
+    description = "Personal blog theme powered by Hugo"
     githubUsername = "#"
     accent = "red"
     showBorder = true
@@ -27,8 +27,8 @@ googleAnalytics = ""
     weight = 2
 
 [[menu.main]]
-    url = "/map/"
-    name = "Map"
+    url = "/project/"
+    name = "Projects"
     weight = 3
 
 # Social icons to be shown on the right-hand side of the navigation bar
@@ -36,6 +36,26 @@ googleAnalytics = ""
 # The list of available icons can be found at http://fontawesome.io/icons/
 
 [[menu.icon]]
-    url = "/contact/"
+    url = "mailto:me@example.com"
     name = "envelope-o"
     weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/username/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/username/"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/username/"
+    name = "linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.stackoverflow.com/username/"
+    name = "stack-overflow"
+    weight = 5
