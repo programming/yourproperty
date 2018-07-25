@@ -1,5 +1,0 @@
----
-title: "Test post 2"
-date: 2014-04-02
----
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut lorem leo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse gravida in tortor et pharetra. Ut a lorem vitae dolor mollis egestas sit amet blandit tortor. Praesent et pharetra diam. Suspendisse dui ligula, vestibulum at sodales non, ullamcorper sit amet ante. Proin sed hendrerit turpis. Duis non enim quis libero accumsan porta quis sed nisi. Maecenas vitae porta purus, non ullamcorper eros. In vel semper est. Curabitur a lacus nec justo accumsan efficitur luctus et risus. Curabitur sed accumsan metus, sed iaculis ante. Proin eleifend at nibh ac maximus. Suspendisse aliquet tortor quis diam tincidunt aliquam. Donec metus orci, molestie eu congue et, elementum tempor tellus. Sed nec malesuada ante.
