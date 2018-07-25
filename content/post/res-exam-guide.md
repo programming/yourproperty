@@ -1,6 +1,7 @@
 ---
 title: A guide to the Real Estate Salesperson (RES) exam
 date: '2018-07-25T00:00:00+08:00'
+url: 'res-exam-guide'
 ---
 ## Step 1: Apply for NTUC membership to enjoy funding from NTUC
 
