@@ -14,3 +14,12 @@ date: '2018-07-25T00:00:00+08:00'
 * Typically, for part-time, classes will be held in the evenings and the entire course will last 1 month.
 * For full-time, classes will be held during the day and the entire course will last 2 weeks. 
 * Is it important which course provider to sign up with?
+* Personally, I don't think it matters. It is better to choose a course provider that is either nearer to your home or your workplace. You will have to achieve at least 75% attendance to obtain the RES course completion certificate.
+
+## Step 3: Attend the RES course 
+
+* As mentioned in the previous step, you will have to achieve at least 75% attendance to obtain the RES course completion certificate.
+* Please **PAY ATTENTION** in class. This will make the difference between a pass and a fail.
+* You are likely to be an adult learner and have not attended school or taken any exams in the last 5 years or more. Remember that the decision to take the RES course was made by you and it is YOUR CHOICE. 
+* If you are unclear about anything, please ask the trainer.
+* If possible, I recommend forming study groups as this will help to motivate you to study better.
