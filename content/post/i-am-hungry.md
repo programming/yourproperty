@@ -6,7 +6,7 @@ date: '2018-07-25T00:00:00+08:00'
 
 NTUC members are given funding to subsidise part of the fees going towards paying for the RES course. This funding is known as UTAP and members get to claim 50% of what you paid (up to $250 per year).
 
-> Example: The course costs $750, you pay $500 using your SkillsFuture credits and you pay $250 cash. UTAP will allow you to claim $125.
+Example: The course costs $750, you pay $500 using your SkillsFuture credits and you pay $250 cash. UTAP will allow you to claim $125.
 
 **Step 2: Apply for the RES course at an **[**approved course provider**](https://www.cea.gov.sg/professionals/salesperson-registration-matters/apply-for-the-real-estate-salesperson-course)
 
