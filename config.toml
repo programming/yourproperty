@@ -40,8 +40,8 @@ googleAnalytics = ""
     url = "/map/"
     name = "Map"
     weight = 5
-
-[[menu.icon]]
+    
+[[menu.main]]
     url = "/contact/"
-    name = "envelope-o"
-    weight = 1
+    name = "Contact"
+    weight = 6
