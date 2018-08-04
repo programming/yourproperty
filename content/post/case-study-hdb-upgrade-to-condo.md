@@ -35,6 +35,7 @@ url: hdbupgrade
 ---
 # <div style="text-align: right"> Do you want to upgrade to a condo? </div>
 # <div style="text-align: right"> Do you want at least $150k cash reserves? </div>
+<form name='contact' method='POST'><input type='hidden' name='form-name' value='contact' /><input type="text" placeholder="Name" required=""> <input type="text" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form>
 ---
 ---
 
