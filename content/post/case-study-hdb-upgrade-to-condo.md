@@ -33,4 +33,4 @@ url: hdbupgrade
 
 ![null](/img/20180804_022326_0001.png)
 
-\*Please note that all figures are estimates
+\*Please note that all figures are rounded down.
