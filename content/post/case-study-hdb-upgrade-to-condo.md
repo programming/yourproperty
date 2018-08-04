@@ -3,7 +3,7 @@ title: 'Case study: HDB upgrade to condo'
 date: '2018-08-04T15:30:37+08:00'
 url: hdbupgrade
 ---
-![](/img/new-piktochart_31692592.png)
+![null](/img/new-piktochart_31692592.png)
 
 ## Upon attaining MOP, Mr and Mrs Lim wanted to sell their flat and upgrade to a condo.
 
@@ -17,8 +17,8 @@ url: hdbupgrade
 
 ## Detailed financial planning and calculation is done.
 
-# With a combined income of $6,000, Mr and Mrs Lim are able to upgrade to a condo along with cash reserves of $150,000. 
+# With a combined income of $6,000, Mr and Mrs Lim are able to upgrade to a condo along with cash reserves of $150,000.
 
-![]()
+![null](/img/20180804_022326_0001.png)
 
 \*Please note that all figures are estimates
