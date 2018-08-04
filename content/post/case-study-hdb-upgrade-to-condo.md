@@ -5,7 +5,7 @@ url: hdbupgrade
 ---
 ![null](/img/new-piktochart_31692592.png)
 
-## Upon attaining MOP, Mr and Mrs Lim wanted to sell their flat and upgrade to a condo. ..
+## Upon attaining MOP, Mr and Mrs Lim wanted to sell their flat and upgrade to a condo.
 
 
 ## Selling Price (SP) = $500,000
