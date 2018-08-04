@@ -19,6 +19,4 @@ url: hdbupgrade
 
 # With a combined income of $6,000, Mr and Mrs Lim are able to upgrade to a condo along with cash reserves of $150,000. 
 
-\*Please note that all figures are estimates 
-
-##
+\*Please note that all figures are estimates
