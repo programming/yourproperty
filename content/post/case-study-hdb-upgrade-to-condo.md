@@ -30,7 +30,7 @@ url: hdbupgrade
 
 # Cash Proceeds = (1) - (2) - (3) = $0
 ---
-# Although selling price is $50,000, Mr and Mrs Lim are faced with a negative sale.
+# Although selling price is $50,000 more, Mr and Mrs Lim are faced with a negative sale.
 ---
 ---
 # <div style="text-align: right"> Do you want to upgrade to a condo? </div>
