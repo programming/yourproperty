@@ -7,6 +7,7 @@ url: hdbupgrade
 
 ## Upon attaining MOP, Mr and Mrs Lim wanted to sell their flat and upgrade to a condo. ..
 
+
 ## Selling Price (SP) = $500,000
 
 ## HDB Loan Balance = $169,663
