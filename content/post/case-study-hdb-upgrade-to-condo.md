@@ -8,13 +8,13 @@ url: hdbupgrade
 # Upon attaining MOP, Mr and Mrs Lim wanted to sell their flat and upgrade to a condo.
 ---
 
-## (A) Selling Price = $500,000
+## (1) Selling Price = $500,000
 
-## (B) HDB Loan Balance = $169,663
+## (2) HDB Loan Balance = $169,663
 
-## (C) CPF Used (inclusive of accrued interest) = $171,324
+## (3) CPF Used (inclusive of accrued interest) = $171,324
 
-# Cash Proceeds = (A) - (B) - (C) = $159,013
+# Cash Proceeds = (1) - (2) - (3) = $159,013
 ---
 ## After detailed financial planning and calculation is done.
 
@@ -22,13 +22,13 @@ url: hdbupgrade
 ---
 # What happens if Mr and Mrs Lim sell only after staying for 25 years instead?
 ---
-## (A) Selling price = $550,000
+## (1) Selling price = $550,000
 
-## (B) HDB Loan Balance = $0
+## (2) HDB Loan Balance = $0
 
-## (C) CPF Used (inclusive of accrued interest) = $564,960
+## (3) CPF Used (inclusive of accrued interest) = $564,960
 
-# Cash Proceeds = (A) - (B) - (C) = $0
+# Cash Proceeds = (1) - (2) - (3) = $0
 
 # Although selling price is $50,000, Mr and Mrs Lim are faced with a negative sale. In the event of negative sale, there is no requirement topup CPF.
 
