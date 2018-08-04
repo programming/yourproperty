@@ -5,20 +5,20 @@ url: hdbupgrade
 ---
 ![](/img/new-piktochart_31692592.png)
 
-## Downpayment of $100,000 was paid using CPF. The monthly mortgage payment worked out to be $907, which was also paid using CPF.
-
 ## Upon attaining MOP, Mr and Mrs Lim wanted to sell their flat and upgrade to a condo.
 
-## Selling price = $500,000
+## Selling Price (SP) = $500,000
 
-## HDB loan balance = $169,663
+## HDB Loan Balance = $169,663
 
-## CPF to be refunded (inclusive of accrued interest) = $154,420
+## CPF Used (inclusive of accrued interest) = $154,420
 
-## Cash Proceeds = $175,917
+## Cash Proceeds = SP - Loan balance - CPF used = $175,917
 
-## 
+## Detailed financial planning and calculation is done.
 
-Please note that all figures are estimates 
+# With a combined income of $6,000, Mr and Mrs Lim are able to upgrade to a condo along with cash reserves of $150,000. 
+
+\*Please note that all figures are estimates 
 
 ##
