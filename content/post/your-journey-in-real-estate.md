@@ -27,9 +27,9 @@ From the example, the couple completed 4 property transactions
 
 # Or do you want a consultant that can work with you in your asset progression and retirement planning?
 
-# With the right plan, real estate investment can be rewarding and can provide you with a comfortable retirement.
+## With the right plan, real estate investment can be rewarding and can provide you with a comfortable retirement.
 
-# <div style="text-align: right">Make an appointment for your free consultation session!
+## <div style="text-align: right">Make an appointment for your free consultation session!
 
 <form name='hdbupgrade' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form> </div>
 
