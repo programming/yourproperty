@@ -1,6 +1,6 @@
 ---
 title: Jade Scape / Former Shunfu Ville
-description: 'Jade Scape / Former Shunfu Ville, new project'
+description: New project in District 20
 url: jadescape
 ---
 * Rare supply of new launch in District 20
