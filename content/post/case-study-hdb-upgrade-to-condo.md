@@ -1,5 +1,5 @@
 ---
-title: The possibility of negative sale
+title: HDB to private
 date: '2018-08-04T15:30:37+08:00'
 url: hdbupgrade
 ---
