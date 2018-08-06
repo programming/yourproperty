@@ -51,7 +51,7 @@ url: hdbupgrade
 
 # <div style="text-align: right">Make an appointment for your free consultation session!
 
-<form name='hdbupgrade' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form> </div>
+<form name="hdbupgrade" method="POST" netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form> </div>
 
 - - -
 
