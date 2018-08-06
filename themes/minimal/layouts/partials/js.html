@@ -21,5 +21,7 @@
 <!-- dismiss expanded navigation bar with click -->
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
 
+{{if eq .URL "/map/"}}
 <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCT9f48FyHGdacI1CAo7vrXcdnLK-k1xu8&libraries=geometry,places"></script>
-<script src="{{ .Site.BaseURL }}js/map.js"></script> 
+<script src="{{ .Site.BaseURL }}js/map.js"></script>
+{{end}}
