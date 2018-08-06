@@ -17,7 +17,7 @@ For the sake of this article, I will use the average Singaporean couple as an ex
 * Towards their late 30s to early 40s, as part of retirement planning, the couple purchase an investment property
 * Upon retirement, the couple will have 2 fully paid properties
 
-From the example, the couple completed 3 property transactions
+From the example, the couple completed 4 property transactions
 
 - - -
 
