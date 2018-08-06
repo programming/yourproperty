@@ -1,6 +1,5 @@
 ---
 title: Jade Scape / Former Shunfu Ville
-date: Invalid date
 description: New project in District 20
 url: jadescape
 ---
