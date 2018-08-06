@@ -1,5 +1,6 @@
 ---
 title: Jade Scape / Former Shunfu Ville
+date: Invalid date
 description: New project in District 20
 url: jadescape
 ---
@@ -22,5 +23,9 @@ url: jadescape
 * Collaboration with professional geomancy, Joey Yap, in design and orientation
 
 * Flagship project entrance to luxury and prestigious market by reputable and award winning developer
+
+# <div style="text-align: right">Register your interest now!
+
+<form name='jadescape' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form> </div>
 
 ![](/img/jadescape-vo_mailer.jpg)
