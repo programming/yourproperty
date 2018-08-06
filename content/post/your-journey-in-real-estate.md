@@ -23,7 +23,7 @@ From the example, the couple completed 4 property transactions
 
 ## To answer the above question, the typical Singaporean is likely to go through 3 to 4 property transactions in a lifetime.
 
-# Are you looking for an agent that only help you to sell and buy your property?
+## Are you looking for an agent that only help you to sell and buy your property?
 
 # Or do you want a consultant that can work with you in your asset progression and retirement planning?
 
