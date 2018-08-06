@@ -29,6 +29,4 @@ From the example, the couple completed 3 property transactions
 
 # With the right plan, real estate investment can be rewarding and can provide you with a comfortable retirement.
 
-
-
-![]()
+![null](/img/20180806_115042_0001.png)
