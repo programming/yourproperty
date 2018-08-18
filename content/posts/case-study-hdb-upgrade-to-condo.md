@@ -3,7 +3,7 @@ title: 'HDB to Private'
 date: '2018-08-04T15:30:37+08:00'
 slug: 'hdb-upgrade'
 ---
-![null](/img/new-piktochart_31692592.png)
+<img src="/img/new-piktochart_31692592.png" width="80%" />
 
 ### Upon attaining MOP, Mr and Mrs Lim wanted to sell their flat and upgrade to a condo.
 
@@ -39,6 +39,7 @@ Although selling price is $50,000 more, Mr and Mrs Lim are faced with a negative
 
 <form name='hdbupgrade' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form>
 
-![null](/img/20180804_022326_0001.png)
+<img src="/img/20180804_022326_0001.png" width="80%" />
+
 
 \*Please note that all figures are rounded down.

@@ -29,4 +29,4 @@ From the example, the couple completed 4 property transactions
 
 <form name='journey' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form>
 
-![null](/img/20180806_115042_0001.png)
+<img src="/img/20180806_115042_0001.png" width="80%" /></center>
