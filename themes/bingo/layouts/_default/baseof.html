@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+    {{- partial "head.html" . -}}
+    {{if eq .URL "/map/"}}
+    <body onload="initialize()">
+	{{else}}	    
+    <body>
+	{{end}}	    
+        {{- partial "header.html" . -}}
+        <div class="container">
+        {{- block "main" . }}{{- end }}
+        </div>
+        {{- partial "footer.html" . -}}
+        {{- template "_internal/google_analytics.html" . -}}
+    </body>
+</html>

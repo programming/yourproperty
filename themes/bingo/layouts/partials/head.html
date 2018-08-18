@@ -1,0 +1,16 @@
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ with .Page.Title }}{{ . }} - {{ end }}{{ .Site.Title }}</title>
+    <base href="{{ .Site.BaseURL }}">
+    <link rel="stylesheet" href="{{ "css/normalize.min.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/solarized-light.min.css" | absURL }}">
+    <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
+    
+    {{if eq .URL "/map/"}}
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCT9f48FyHGdacI1CAo7vrXcdnLK-k1xu8&libraries=geometry,places"></script>
+    <script src="{{ "js/map.js" | absURL }}"></script>
+    {{end}}
+
+        
+</head>

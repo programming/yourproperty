@@ -1,47 +1,46 @@
-baseurl = "https://yourproperty.sg/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Your Property Consultant"
-theme = "minimal"
+theme = "bingo"
+
+disableHugoGeneratorInject = true
+enableEmoji = true
+footnoteReturnLinkContents = "↩"
+hasCJKLanguage = true
 googleAnalytics = ""
 
-[params]
-    author = "Zack Lim"
-    description = "Buy, sell and rent property"
-    githubUsername = "#"
-    accent = "red"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Raleway" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
+[permalinks]
+  post = "/posts/:slug/"
 
-[[menu.main]]
-    url = "/"
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
     name = "Home"
-    weight = 1
+    url = "/"
+    weight = 10
 
-[[menu.main]]
-    url = "/post/"
+  [[menu.main]]
+    identifier = "posts"
     name = "Updates & Sharing"
-    weight = 2
+    url = "/posts"
+    weight = 20
 
-[[menu.main]]
-    url = "/project/"
+  [[menu.main]]
+    identifier = "new"
     name = "New Projects"
-    weight = 3
+    url = "/projects"
+    weight = 30 
     
-[[menu.main]]
-    url = "/resale/"
-    name = "Resale"
-    weight = 4    
-    
-[[menu.main]]
-    url = "/map/"
+  [[menu.main]]
+    identifier = "map"
     name = "Map"
-    weight = 5
+    url = "/map"
+    weight = 50    
     
-[[menu.main]]
-    url = "/contact/"
+  [[menu.main]]
+    identifier = "contact"
     name = "Contact"
-    weight = 6
+    url = "/contact"
+    weight = 60    
+    

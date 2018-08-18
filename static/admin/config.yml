@@ -8,29 +8,25 @@ public_folder: "/img" # The src attribute for uploaded media will begin with /im
 collections:
   - label: "Blog"
     name: "post"
-    folder: "content/post"
+    folder: "content/posts"
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", required: false, widget: "datetime"}
-      - {label: "URL", name: "url", widget: "string"}
+      - {label: "URL", name: "slug", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}                
   - label: "Project"
     name: "project"
-    folder: "content/project"
+    folder: "content/projects"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", required: false, widget: "datetime"}
-      - {label: "Description", name: "description", widget: "string"}   
-      - {label: "URL", name: "url", widget: "string"}         
+      - {label: "URL", name: "slug", widget: "string"}         
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Resale"
     name: "resale"
     folder: "content/resale"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", required: false, widget: "datetime"}
-      - {label: "Description", name: "description", widget: "string"}  
-      - {label: "URL", name: "url", widget: "string"}          
-      - {label: "Body", name: "body", widget: "markdown"}      
+      - {label: "URL", name: "slug", widget: "string"}         
+      - {label: "Body", name: "body", widget: "markdown"}  
