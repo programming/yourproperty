@@ -3,7 +3,7 @@ title: 'Jade Scape / Former Shunfu Ville'
 slug: 'jade-scape'
 ---
 
-<center>![Zack Lim](/img/img-20180809-wa0013.jpg)</center>
+<center><img src="/img/img-20180809-wa0013.jpg" width="80%" /></center>
 
 * Rare supply of new launch in District 20
 * 3 minutes walk to Marymount MRT and walking distance to upcoming Upper Thomson MRT
