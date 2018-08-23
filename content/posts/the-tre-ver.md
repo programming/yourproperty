@@ -3,6 +3,10 @@ title: The Tre Ver
 date: '2018-08-24T01:25:02+08:00'
 slug: thetrever
 ---
+![](/img/the-tre-ver_factsheet.jpg)
+
+
+
 ## Project Name: The Tre Ver (pronounced Tree Ver)
 
 ## Address: Potong Pasir Ave 1 (approx 7 to 8 min walk from Potong Pasir MRT)
