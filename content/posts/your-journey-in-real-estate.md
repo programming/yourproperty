@@ -1,7 +1,7 @@
 ---
-title: 'Your journey in real estate'
+title: Your journey in real estate
 date: '2018-08-06T11:00:00+08:00'
-slug: 'journey'
+slug: journey
 ---
 ### How many property transactions do you think will a typical Singaporean go through in a lifetime?
 
@@ -28,5 +28,3 @@ From the example, the couple completed 4 property transactions
 ### Make an appointment for your free consultation session!
 
 <form name='journey' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form>
-
-<img src="/img/20180806_115042_0001.png" width="80%" /></center>
