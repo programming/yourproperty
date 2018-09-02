@@ -19,6 +19,7 @@ collections:
   - label: "Project"
     name: "project"
     folder: "content/projects"
+    create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "URL", name: "slug", widget: "string"}         
@@ -26,6 +27,7 @@ collections:
   - label: "Resale"
     name: "resale"
     folder: "content/resale"
+    create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "URL", name: "slug", widget: "string"}         
