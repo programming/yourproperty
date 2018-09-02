@@ -15,6 +15,8 @@ slug: hdb-upgrade
 
 ### Cash Proceeds = (1) - (2) - (3) = $158,598
 
+Mr and Mrs Lim receives $158,598 cash with the sale of their flat.
+
 - - -
 
 ### What happens if Mr and Mrs Lim sell only after staying for 25 years instead?
@@ -33,7 +35,9 @@ Mr and Mrs Lim are faced with a negative sale.
 
 ## Do you want to upgrade to a condo?
 
-## Do you want at least $100k cash reserves?
+## Do you want at least $50k cash reserves?
+
+## Do you want to avoid a negative sale on your HDB?
 
 ## Make an appointment for your free consultation session!
 
