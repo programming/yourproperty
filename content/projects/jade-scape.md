@@ -4,8 +4,6 @@ slug: jade-scape
 ---
 ![](/img/jadescape_main_hero.jpg)
 
-<center><img src="/img/img-20180809-wa0013.jpg" width="80%" /></center>
-
 * Rare supply of new launch in District 20
 * 3 minutes walk to Marymount MRT and walking distance to upcoming Upper Thomson MRT
 * Quick access to major expressways & door step to north-south corridor
@@ -22,3 +20,5 @@ slug: jade-scape
 <form name='jadescape' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form>
 
 <img src="/img/jadescape-vo_mailer.jpg" width="80%" /></center>
+
+<center><img src="/img/img-20180809-wa0013.jpg" width="80%" /></center>
