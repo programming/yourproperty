@@ -1,7 +1,8 @@
 ---
-title: 'Jade Scape / Former Shunfu Ville'
-slug: 'jade-scape'
+title: Jade Scape / Former Shunfu Ville
+slug: jade-scape
 ---
+![](/img/jadescape_main_hero.jpg)
 
 <center><img src="/img/img-20180809-wa0013.jpg" width="80%" /></center>
 
