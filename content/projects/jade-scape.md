@@ -23,7 +23,7 @@ slug: jade-scape
 
 <center><img src="/img/jadescape-vo_mailer.jpg" width="80%" /></center>
 
-## <center><font size="6">Register your interest now!</font>
+## <center><font size="6">To secure your unit of choice, register your interest now!</font>
 
 <center><form name='jadescape' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
