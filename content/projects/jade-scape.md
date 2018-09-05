@@ -17,8 +17,7 @@ slug: jade-scape
 ## * Collaboration with professional geomancy, Joey Yap, in design and orientation
 ## * Flagship project entrance to luxury and prestigious market by reputable and award winning developer
 
-## <center><font size="6">To secure your unit of choice
-Register your interest now!</font>
+## <center><font size="6">To secure your unit of choice, register your interest now!</font>
 
 <center><form name='jadescape' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
