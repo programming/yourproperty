@@ -58,13 +58,13 @@ slug: parkwood
 
 # <center>The Right Value</center>
 
-## * A typical 3-bedroom in a new launch condo will be no more than 1,100sf and will cost minimally $1.6M
+## * Typical 3-bedroom in a new launch condo will be no more than 1,100sf and cost minimally $1.6M
 
 ## * Buying 3 units = 3,300sf of space at over $4.8M 
 
-## \* Units at Parkwood Collection will range from 3,789sf to 5,521sf
+## \* Parkwood Collection will range from 3,789sf to 5,521sf
 
-## \* Parkwood Collection land cost is at $525.58 psf ppr with breakeven price estimated at $8XX psf ppr
+## \* Land cost is at $525.58 psf ppr with breakeven price estimated at $8XX psf ppr
 
 ## * Assuming 10% profit margin (at $9XX psf ppr), a 3,789sf unit will cost no more than $3.8M
 
