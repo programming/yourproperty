@@ -16,7 +16,7 @@ slug: parkwood
 
 ## \* Convenience with close proximity to Hougang MRT
 
-## <center><font size="6">Are you interested to know more? Register your interest today!</font>
+## <center><font size="6">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
@@ -52,7 +52,7 @@ slug: parkwood
 
 ## * Condo psf prices were higher by 3.12% to as much as 40.49% 
 
-## <center><font size="6">Are you interested to know more? Register your interest today!</font>
+## <center><font size="6">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
@@ -74,12 +74,12 @@ slug: parkwood
 
 ## * CONCLUSION: Spend less and get more
 
-## <center><font size="6">Are you interested to know more? Register your interest today!</font>
+## <center><font size="6">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
 <center><img src="/img/parkwood-artwork.jpg" width="90%" /></center>
 
-## <center><font size="6">Are you interested to know more? Register your interest today!</font>
+## <center><font size="6">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
