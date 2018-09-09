@@ -12,7 +12,7 @@ slug: parkwood
 
 ## \* 2 basement carpark lots at your doorstep, no worry about rain or shine
 
-## \* 24/7 Security for the safety of your loved ones
+## \* 24 / 7 Security for the safety of your loved ones
 
 ## \* Convenience with close proximity to Hougang MRT
 
@@ -24,7 +24,7 @@ slug: parkwood
 
 # <center> Which is better: Freehold vs Leasehold</center>
 
-## \* Above chart shows the average prices of landed properties in D19 for the past 10 years (2008 to 2018)
+## \* Above chart shows the average prices of landed properties in D19 for the past 10 years
 
 ## \* Freehold (FH) is in BLUE and Leasehold (LH) is in ORANGE
 
@@ -32,11 +32,11 @@ slug: parkwood
 
 ## \* LH appreciated by 93.52%
 
-## \* LH prices were lower than FH (2012 being the exception)
+## \* LH prices were generally lower than FH
 
 ## \* Yet LH appreciated by 17.63% more than FH
 
-## <center><font size="6">Are you interested to know more? Register your interest today!</font>
+## <center><font size="6">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
@@ -44,7 +44,7 @@ slug: parkwood
 
 # <center> Better value: Condo vs Landed</center>
 
-## * Above chart shows the average psf prices of condo (BLUE) and landed (ORANGE) for the past 10 years (2008 to 2018)
+## * Above chart shows the average psf prices of condo (BLUE) and landed (ORANGE) for the past 10 years
 
 ## * Condo psf prices were generally higher compared to Landed psf prices
 
