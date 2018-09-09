@@ -1,6 +1,6 @@
 ---
 title: Jade Scape / Former Shunfu Ville
-slug: jadescape
+slug: jade-scape
 ---
 <center><img src="/img/jadescape_main_hero.jpg" width="80%" /></center>
 
