@@ -2,7 +2,7 @@
 title: Parkwood Collection
 slug: parkwood
 ---
-<center><img src="/img/screen-shot-2018-09-09-at-9.25.34-pm.png" width="100%" /></center>
+<center><img src="/img/parkwood-collection-factsheet.jpg" width="100%" /></center>
 
 ## Freehold vs Leasehold
 
