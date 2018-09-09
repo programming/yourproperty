@@ -8,7 +8,7 @@ slug: parkwood
 
 ## \* Enjoy Condo Facilities and plenty of amenities
 
-## \* Exclusiveness with Low Density Living, only 50+ units
+## \* Exclusivity with Low Density Living, only 50+ units
 
 ## \* 2 basement carpark lots at your doorstep, no worry about rain or shine
 
