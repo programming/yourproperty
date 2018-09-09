@@ -40,8 +40,6 @@ slug: parkwood
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
-#
-
 <center><img src="/img/screen-shot-2018-09-09-at-10.28.39-pm.png" width="100%" /></center>
 
 # <center> Better value: Condo vs Landed</center>
@@ -55,8 +53,6 @@ slug: parkwood
 ## <center><font size="6">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
-
-#
 
 <center><img src="/img/screen-shot-2018-09-09-at-8.29.21-pm.png" width="100%" /></center>
 
