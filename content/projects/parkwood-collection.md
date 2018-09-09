@@ -14,7 +14,7 @@ slug: parkwood
 
 ## \* 24/7 Security for the safety of your loved ones
 
-## \* Convenience of being near Hougang MRT
+## \* Convenience with close proximity to Hougang MRT
 
 ## <center><font size="6">Are you interested to know more? Register your interest today!</font>
 
