@@ -33,7 +33,7 @@ Mr and Mrs Lim are faced with a negative sale.
 
 - - -
 
-## Do you want to upgrade to a condo?
+## Do you want to upgrade to a private?
 
 ## Do you want at least $50k cash reserves?
 
