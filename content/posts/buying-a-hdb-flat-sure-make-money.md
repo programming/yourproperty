@@ -1,5 +1,5 @@
 ---
-title: Prevent this from happening to YOU!
+title: Prevent this from happening
 date: '2018-09-17T23:01:40+08:00'
 slug: fbc
 ---
