@@ -4,6 +4,8 @@ slug: parkwood
 ---
 # <center>Why Parkwood Collection?</center>
 
+<center><img src="/img/c7.jpg" width="100%" /></center>
+
 ## \* Exclusivity with Low Density Living, only 53 units
 
 ## \* Basement carpark lot at your doorstep, no worry about rain or shine
