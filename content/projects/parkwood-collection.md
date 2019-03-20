@@ -17,7 +17,9 @@ slug: parkwood
 
 ### \* Within 1km of Holy Innocents' Primary School, Montfort Junior School and Xinmin Primary School
 
-## <center><font size="5">Register your interest today!</font>
+### \* Sales Gallery opens for preview with immediate booking on 23rd March 2019, Saturday from 11am to 7pm. By appointment basis only.
+
+## <center><font size="5">Register for your VVIP preview today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
@@ -37,7 +39,7 @@ slug: parkwood
 
 ### \* Yet LH appreciated by 17.63% more than FH
 
-## <center><font size="5">Register your interest today!</font>
+## <center><font size="5">Register for your VVIP preview today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
@@ -51,7 +53,7 @@ slug: parkwood
 
 ### \* Condo psf prices higher by 3.12% to as much as 40.49%
 
-## <center><font size="5">Register your interest today!</font>
+## <center><font size="5">Register for your VVIP preview today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
@@ -75,6 +77,6 @@ slug: parkwood
 
 <center><img src="/img/parkwood-collection-factsheet.jpg" width="100%" /></center>
 
-## <center><font size="5">Register your interest today!</font>
+## <center><font size="5">Register for your VVIP preview today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
