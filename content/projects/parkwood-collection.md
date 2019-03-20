@@ -8,9 +8,9 @@ slug: parkwood
 
 ## \* Enjoy Condo Facilities & plenty of amenities
 
-## \* Exclusivity with Low Density Living, only 50+ units
+## \* Exclusivity with Low Density Living, only 53 units
 
-## \* 2 basement carpark lots at your doorstep, no worry about rain or shine
+## \* Basement carpark lots at your doorstep, no worry about rain or shine
 
 ## \* 24 / 7 Security for the safety of your loved ones
 
@@ -44,11 +44,11 @@ slug: parkwood
 
 # <center> Better value: Condo vs Landed</center>
 
-## * Above chart shows average psf prices of condo (BLUE) and landed (ORANGE) for the past 10 years
+## \* Above chart shows average psf prices of condo (BLUE) and landed (ORANGE) for the past 10 years
 
-## * Condo psf prices generally higher compared to Landed
+## \* Condo psf prices generally higher compared to Landed
 
-## * Condo psf prices higher by 3.12% to as much as 40.49% 
+## \* Condo psf prices higher by 3.12% to as much as 40.49%
 
 ## <center><font size="6">Register your interest today!</font>
 
@@ -58,17 +58,17 @@ slug: parkwood
 
 # <center>The Right Value</center>
 
-## * Typical 3-BR in a new launch condo less than 1,100sf and cost minimally $1.6M
+## \* Typical 3-BR in a new launch condo less than 1,100sf and cost minimally $1.6M
 
-## * Buying 3 units = 3,300sf of space at over $4.8M 
+## \* Buying 3 units = 3,300sf of space at over $4.8M
 
 ## \* Parkwood Collection will range from 3,789sf to 5,521sf
 
 ## \* Land cost is at $525.58 psf ppr with breakeven price estimated at $8XX psf ppr
 
-## * Assuming 10% profit margin (at $9XX psf ppr), a 3,789sf unit will cost no more than $3.8M
+## \* Assuming 10% profit margin (at $9XX psf ppr), a 3,789sf unit will cost no more than $3.8M
 
-## * CONCLUSION: Spend less and get more
+## \* CONCLUSION: Spend less and get more
 
 <center><img src="/img/parkwood-artwork.jpg" width="90%" /></center>
 
