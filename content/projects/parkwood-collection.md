@@ -2,19 +2,19 @@
 title: Parkwood Collection
 slug: parkwood
 ---
-<center><img src="/img/parkwood-collection-factsheet.jpg" width="100%" /></center>
-
 # <center>Why Parkwood Collection?</center>
-
-## \* Enjoy Condo Facilities & plenty of amenities
 
 ## \* Exclusivity with Low Density Living, only 53 units
 
-## \* Basement carpark lots at your doorstep, no worry about rain or shine
+## \* Basement carpark lot at your doorstep, no worry about rain or shine
 
 ## \* 24 / 7 Security for the safety of your loved ones
 
-## \* Convenience with close proximity to Hougang MRT
+## \* Enjoy Condo Facilities & plenty of amenities
+
+## \* Convenience with close proximity to Hougang MRT and future Cross Island Line
+
+## \* Within 1km of Holy Innocents' Primary School, Montfort Junior School and Xinmin Primary School
 
 ## <center><font size="6">Register your interest today!</font>
 
@@ -58,19 +58,21 @@ slug: parkwood
 
 # <center>The Right Value</center>
 
-## \* Typical 3-BR in a new launch condo less than 1,100sf and cost minimally $1.6M
+## \* Typical 4-BR in a new launch condo less than 1,500sf and sells for at least $2M ($1.3k+ psf)
 
-## \* Buying 3 units = 3,300sf of space at over $4.8M
+## \* Buying 2 units (total under 3,000sf) at $4M or more
 
-## \* Parkwood Collection will range from 3,789sf to 5,521sf
+## \* Parkwood Collection range from 3,789sf to 5,521sf
 
-## \* Land cost is at $525.58 psf ppr with breakeven price estimated at $8XX psf ppr
+## \* Average selling price under $4M at $8XX psf
 
-## \* Assuming 10% profit margin (at $9XX psf ppr), a 3,789sf unit will cost no more than $3.8M
-
-## \* CONCLUSION: Spend less and get more
+## \* Which offers the better value?
 
 <center><img src="/img/parkwood-artwork.jpg" width="90%" /></center>
+
+# <center>For a personalised consultation service, contact Zack at 87545387</center>
+
+<center><img src="/img/parkwood-collection-factsheet.jpg" width="100%" /></center>
 
 ## <center><font size="6">Register your interest today!</font>
 
