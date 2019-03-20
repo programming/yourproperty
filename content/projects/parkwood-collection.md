@@ -2,23 +2,22 @@
 title: Parkwood Collection
 slug: parkwood
 ---
-# <center>Why Parkwood Collection?</center>
 
 <center><img src="/img/c7.jpg" width="100%" /></center>
 
-## \* Exclusivity with Low Density Living, only 53 units
+### \* Exclusivity with Low Density Living, only 53 units
 
-## \* Basement carpark lot at your doorstep, no worry about rain or shine
+### \* Basement carpark lot at your doorstep, no worry about rain or shine
 
-## \* 24 / 7 Security for the safety of your loved ones
+### \* 24 / 7 Security for the safety of your loved ones
 
-## \* Enjoy Condo Facilities & plenty of amenities
+### \* Enjoy Condo Facilities & plenty of amenities
 
-## \* Convenience with close proximity to Hougang MRT and future Cross Island Line
+### \* Convenience with close proximity to Hougang MRT and future Cross Island Line
 
-## \* Within 1km of Holy Innocents' Primary School, Montfort Junior School and Xinmin Primary School
+### \* Within 1km of Holy Innocents' Primary School, Montfort Junior School and Xinmin Primary School
 
-## <center><font size="6">Register your interest today!</font>
+## <center><font size="5">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
@@ -38,7 +37,7 @@ slug: parkwood
 
 ## \* Yet LH appreciated by 17.63% more than FH
 
-## <center><font size="6">Register your interest today!</font>
+## <center><font size="5">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
@@ -52,7 +51,7 @@ slug: parkwood
 
 ## \* Condo psf prices higher by 3.12% to as much as 40.49%
 
-## <center><font size="6">Register your interest today!</font>
+## <center><font size="5">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
 
@@ -72,10 +71,10 @@ slug: parkwood
 
 <center><img src="/img/parkwood-artwork.jpg" width="90%" /></center>
 
-# <center>For a personalised consultation service, contact Zack at 87545387</center>
+## <center>For a personalised consultation service, contact Zack at 87545387</center>
 
 <center><img src="/img/parkwood-collection-factsheet.jpg" width="100%" /></center>
 
-## <center><font size="6">Register your interest today!</font>
+## <center><font size="5">Register your interest today!</font>
 
 <center><form name='parkwood' method='POST' netlify><input name="name" type="text" placeholder="Name" required=""> <input type="text" name="number" placeholder="Mobile Number" required=""> <input type="submit" value="Submit" /></form></center>
